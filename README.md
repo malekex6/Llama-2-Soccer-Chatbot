@@ -10,7 +10,7 @@ I harnessed Hugging Face's powerful embeddings and FAISS vector stores to proces
 - 🧩 Splitting text into chunks with RecursiveCharacterTextSplitter.
 - 🤖 Employing Hugging Face Embeddings (MiniLM-L6-v2) for text representation.
 
-- 📚 Developing a precise Retrieval QA Chain using LangChain's RetrievalQA, which integrated the powerful hashtag#Llama2 model by Meta
+- 📚 Developing a precise Retrieval QA Chain using LangChain's RetrievalQA, which integrated the powerful Llama2 model by Meta
 - 🌐 The retrieval system I built enables precise information retrieval, delivering accurate responses based on user queries.
 
 ## Contribution
