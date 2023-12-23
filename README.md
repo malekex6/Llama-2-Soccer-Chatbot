@@ -17,4 +17,4 @@ I harnessed Hugging Face's powerful embeddings and FAISS vector stores to proces
 
 Contributions are welcome! If you wish to contribute to this project, feel free to fork the repository and create a pull request with your changes.
 
-Uploading Post1 ‐ Réalisée avec Clipchamp.mp4
+
