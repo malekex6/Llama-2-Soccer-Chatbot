@@ -1,6 +1,8 @@
-# Llama-2-Soccer-Chatbot
+# Soccer-Chatbot
+<div  align="center">
+  
 ![a](https://github.com/malekex6/Llama-2-Soccer-Chatbot/assets/144233943/36f68c85-861b-4879-90ae-0f0f6ef01044)
-
+</div>
 
 ## Overview
 🔍 Using Python and LangChain, with the powerful Chainlit framework, I developed a system to extract insights from merged PDFs dataset ⚽️.
