@@ -1,4 +1,6 @@
 # Llama-2-Soccer-Chatbot
+![a](https://github.com/malekex6/Llama-2-Soccer-Chatbot/assets/144233943/36f68c85-861b-4879-90ae-0f0f6ef01044)
+
 
 ## Overview
 🔍 Using Python and LangChain, with the powerful Chainlit framework, I developed a system to extract insights from merged PDFs dataset ⚽️.
@@ -16,5 +18,6 @@ I harnessed Hugging Face's powerful embeddings and FAISS vector stores to proces
 ## Contribution
 
 Contributions are welcome! If you wish to contribute to this project, feel free to fork the repository and create a pull request with your changes.
+
 
 
