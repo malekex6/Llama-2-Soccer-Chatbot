@@ -5,7 +5,7 @@
 </div>
 
 ## Overview
-🔍 Using Python and LangChain, with the powerful Chainlit framework, I developed a system to extract insights from merged PDFs dataset ⚽️.
+🔍 Using Python and LangChain, with the powerful Chainlit framework, I developed an information retrieval system about soccer based on 1000+ pages text file.⚽️.
 I harnessed Hugging Face's powerful embeddings and FAISS vector stores to process and index over 1000 pages of soccer content, from historical texts to coaching manuals.
 
 ## The core of the project involved:
